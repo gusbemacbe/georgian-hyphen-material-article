@@ -14,5 +14,5 @@ Check the bugs and the details in the end of this demos.
 
 You can test the demo:
 
-1. [Demo Test 1](http://gusbemacbe.github.io/bootstraphyphen/index.html)
-2. [Demo Test 2](http://gusbemacbe.github.io/bootstraphyphen/teste2.html)
+1. [Demo Test 1](https://gusbemacbe.github.io/georgian-hyphen-material-article/)
+2. [Demo Test 2]() (Soon)
