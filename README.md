@@ -1,5 +1,5 @@
 # Template with Materialize, Hyphenator and jQuery.nicescroll
-I updated the new version of Hyphenator to turn Georgian available for the hyphenation.
+I updated the new version of Hyphenator to turn Georgian available for the hyphenation and with the Georgian pattern provided by [Levan Soshiashvili](@soshoshia).
 
 One single HTML file of an article in the Google Material Design style with Hyphenator forked from [mnater/Hyphenator](https://github.com/mnater/Hyphenator) and with 3 different languages — English, French and Georgian.
 
